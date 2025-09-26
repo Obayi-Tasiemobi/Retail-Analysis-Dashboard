@@ -34,11 +34,11 @@ The aim of this project is to demonstrate data cleaning, exploration, and analys
 - Use of excel formulas to find total cost, revenue before discount, discount amount, total revenue after discount, and profit
 
 ## KPIs
-Total Revenue	$2,845,958 (YoY -2%)
-Profit		$760,700 (YoY -6%)
-Profit margin	27%
-Quantity	8506
-Total Order	1700
+- Total Revenue	$2,845,958 (YoY -2%)
+- Profit		$760,700 (YoY -6%)
+- Profit margin	27%
+- Quantity	8506
+- Total Order	1700
 
 ## Category and Product overview
 - Fashion category generated the highest revenue and profit with a total revenue of $640,166 (22.5% of total revenue) and $171,989 (23% of total profit) while Stationary is lowest in both revenue and profit with a total of $332,915 (11.7% of total revenue) and $89,864 (12% of total profit). 
