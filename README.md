@@ -41,19 +41,19 @@ Quantity	8506
 Total Order	1700
 
 ## Category and Product overview
-Fashion category generated the highest revenue and profit with a total revenue of $640,166 (22.5% of total revenue) and $171,989 (23% of total profit) while Stationary is lowest in both revenue and profit with a total of $332,915 (11.7% of total revenue) and $89,864 (12% of total profit). 
-Top five (5) best-selling products both in revenue and profit are; Blender, Smartphone, Jeans, Office Chair, and T-Shirt. Blender is the highest in both revenue ($232,262) and profit ($65,363) while Pen is the lowest in both with revenue as $154,705 (5%) and $44,038 (5.8%) as profit.
+- Fashion category generated the highest revenue and profit with a total revenue of $640,166 (22.5% of total revenue) and $171,989 (23% of total profit) while Stationary is lowest in both revenue and profit with a total of $332,915 (11.7% of total revenue) and $89,864 (12% of total profit). 
+- Top five (5) best-selling products both in revenue and profit are; Blender, Smartphone, Jeans, Office Chair, and T-Shirt. Blender is the highest in both revenue ($232,262) and profit ($65,363) while Pen is the lowest in both with revenue as $154,705 (5%) and $44,038 (5.8%) as profit.
 
 ## Customer and Market insights
-Consumer generated $1,002,767 (35.2%) as revenue and $275,083 (36.2%) as profit, making it the customer segment highest in both revenue and profit. Corporate made $890,383 (31.2%) and $237,966 (31.3%) respectively, making it the lowest in both revenue and profit.
-The south region made it to the top with revenue as $757,514 (26.6%) and profit as $203,556 (26.8%). On the other hand, East region made the lowest revenue of $686,204 (24%) while West region generated the lowest profit with a total of $183,848 (24.2%). All four regions are closely matched
-Small Business segment and West region record the highest order. This implies repeated purchases. 
+- Consumer generated $1,002,767 (35.2%) as revenue and $275,083 (36.2%) as profit, making it the customer segment highest in both revenue and profit. Corporate made $890,383 (31.2%) and $237,966 (31.3%) respectively, making it the lowest in both revenue and profit.
+- The south region made it to the top with revenue as $757,514 (26.6%) and profit as $203,556 (26.8%). On the other hand, East region made the lowest revenue of $686,204 (24%) while West region generated the lowest profit with a total of $183,848 (24.2%). All four regions are closely matched
+- Small Business segment and West region record the highest order. This implies repeated purchases. 
 Payment method most used is Debit card
 
 ## Time Series and Trend
-January ranks highest in both revenue and profit ($282,963 and $75,949) while June ranks lowest in both ($219,4553 and $51,224). All months are closely matched but the top five are Jan, May, Apr, Oct, and Feb. These months show peak in demand; promotional campaigns will boost sales in these months.
-2023 performed better than 2024 in both revenue and profit. There is 2% decrease in revenue and 6% decrease in profit.
-In 2023, West region records the highest order (241) while East has the lowest order (200). In 2024, South records the highest order (217) while east has the lowest too (195)
+- January ranks highest in both revenue and profit ($282,963 and $75,949) while June ranks lowest in both ($219,4553 and $51,224). All months are closely matched but the top five are Jan, May, Apr, Oct, and Feb. These months show peak in demand; promotional campaigns will boost sales in these months.
+- 2023 performed better than 2024 in both revenue and profit. There is 2% decrease in revenue and 6% decrease in profit.
+- In 2023, West region records the highest order (241) while East has the lowest order (200). In 2024, South records the highest order (217) while east has the lowest too (195)
 
 ## Suggestion
 Discount increases the chances of returning customers and increased sales but, it should not affect total revenue and profitability. The total cost of goods, unit price, and quantity being purchased should be considered when giving discount so that revenue and profit will not be affected. Giving 20% discount for one single ordered product with 114.3 as cost and 151.2 as unit price will definitely affect revenue and profit. The discount given did not drive sales but reduced profit.
