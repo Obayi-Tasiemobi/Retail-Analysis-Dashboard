@@ -3,5 +3,9 @@
 ## Project Objective
 The aim of this project is to demonstrate data cleaning, exploration, and analysis. Also, to track the progress of sales/profit across both years.
 
-## Dataset
-http://go.microsoft.com/fwlink/p/?LinkId=255141
+## Outline
+•	Data cleaning and preparation	
+•	Category and Product analysis
+•	Customer and Market insights
+•	Time series and trend
+
